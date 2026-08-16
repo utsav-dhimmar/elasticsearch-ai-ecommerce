@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "title": "Smartphone X1",
+    "description": "A cutting-edge smartphone with a stunning 6.7-inch OLED display, a powerful A15 Bionic chip, and an advanced triple-camera system capable of capturing breathtaking photos and 4K videos. Features include 5G connectivity, Face ID, and an all-day battery life. Available in midnight black, starlight, and sierra blue.",
+    "category": "electronics"
+  },
+  {
+    "id": "2",
+    "title": "Classic Denim Jacket",
+    "description": "A timeless denim jacket made from 100% organic cotton, featuring a relaxed fit, distressed details, and metal button closures. Perfect for layering in all seasons, this jacket offers both style and durability. Available in multiple washes from light to dark.",
+    "category": "clothing"
+  },
+  {
+    "id": "3",
+    "title": "Smart LED TV 55-inch",
+    "description": "Immerse yourself in vibrant colors and sharp details with this 55-inch 4K UHD Smart LED TV. Equipped with HDR technology, multiple HDMI ports, and integrated smart features for streaming your favorite content directly. Includes a sleek, minimalist design and voice control capabilities.",
+    "category": "electronics"
+  },
+  {
+    "id": "4",
+    "title": "Ergonomic Office Chair",
+    "description": "Designed for maximum comfort and support during long working hours, this ergonomic office chair features adjustable lumbar support, armrests, and headrest. Upholstered in breathable mesh fabric with a sturdy five-star base and smooth-rolling casters.",
+    "category": "home_office"
+  },
+  {
+    "id": "5",
+    "title": "Noise-Cancelling Headphones",
+    "description": "Experience pure sound with these over-ear noise-cancelling headphones. Featuring adaptive noise cancellation, exceptional audio quality, and up to 30 hours of battery life on a single charge. Comes with a soft carrying case and an audio cable for wired listening.",
+    "category": "electronics"
+  },
+  {
+    "id": "6",
+    "title": "Running Shoes Pro",
+    "description": "Lightweight and responsive running shoes engineered for peak performance. Featuring a breathable knit upper, cushioned midsole for superior shock absorption, and a durable rubber outsole for optimal grip on various surfaces. Ideal for both short sprints and long-distance runs.",
+    "category": "sportswear"
+  },
+  {
+    "id": "7",
+    "title": "Espresso Machine Deluxe",
+    "description": "Craft barista-quality coffee at home with this premium espresso machine. Features a powerful 15-bar pump, integrated grinder, and a steam wand for frothing milk. Easy to clean and maintain, with a sleek stainless steel finish.",
+    "category": "kitchen_appliances"
+  },
+  {
+    "id": "8",
+    "title": "Outdoor Camping Tent",
+    "description": "Spacious and weather-resistant camping tent designed for four people. Features a waterproof flysheet, strong fiberglass poles, and excellent ventilation. Quick and easy to set up, perfect for family camping trips or hiking adventures.",
+    "category": "outdoor_gear"
+  },
+  {
+    "id": "9",
+    "title": "Wireless Gaming Mouse",
+    "description": "Gain the competitive edge with this high-precision wireless gaming mouse. Features a customizable DPI up to 16,000, programmable buttons, and an ergonomic design for comfortable extended use. Long-lasting battery and fast response time.",
+    "category": "electronics"
+  },
+  {
+    "id": "10",
+    "title": "Cookbook: Italian Classics",
+    "description": "Explore the rich flavors of Italy with this comprehensive cookbook. Contains over 100 authentic recipes, from pasta dishes and pizzas to desserts and regional specialties. Includes step-by-step instructions and beautiful food photography.",
+    "category": "books"
+  },
+  {
+    "id": "11",
+    "title": "Yoga Mat Premium",
+    "description": "High-density, non-slip yoga mat made from eco-friendly TPE material. Provides excellent cushioning and support for all yoga and pilates practices. Easy to clean and roll up, comes with a convenient carrying strap.",
+    "category": "fitness"
+  },
+  {
+    "id": "12",
+    "title": "Portable Bluetooth Speaker",
+    "description": "Enjoy crisp, clear audio wherever you go with this compact and powerful portable Bluetooth speaker. Features deep bass, a waterproof design, and up to 12 hours of playtime. Ideal for outdoor gatherings, parties, or personal listening.",
+    "category": "electronics"
+  },
+  {
+    "id": "13",
+    "title": "Women's Summer Dress",
+    "description": "A light and airy summer dress made from soft, breathable linen. Features a flattering A-line silhouette, adjustable spaghetti straps, and a floral pattern. Perfect for casual outings or beach days.",
+    "category": "clothing"
+  },
+  {
+    "id": "14",
+    "title": "Digital Camera Pro",
+    "description": "Capture professional-quality photos and videos with this advanced digital camera. Features a 24.2MP APS-C sensor, fast autofocus, and 4K video recording. Compact and user-friendly, suitable for both enthusiasts and pros.",
+    "category": "electronics"
+  },
+  {
+    "id": "15",
+    "title": "Electric Kettle Rapid Boil",
+    "description": "Boil water quickly and efficiently with this stylish electric kettle. Features a 1.7-liter capacity, rapid boil technology, and an automatic shut-off for safety. Made from durable stainless steel with a comfortable handle.",
+    "category": "kitchen_appliances"
+  },
+  {
+    "id": "16",
+    "title": "Kids' Building Blocks Set",
+    "description": "Ignite creativity with this large set of colorful building blocks. Includes various shapes and sizes, allowing children to construct anything they imagine. Made from safe, non-toxic, and durable plastic.",
+    "category": "toys"
+  },
+  {
+    "id": "17",
+    "title": "Travel Backpack Waterproof",
+    "description": "Durable and waterproof travel backpack designed for adventurers. Features multiple compartments, padded laptop sleeve, and ergonomic shoulder straps for comfort. Ideal for hiking, travel, and daily commutes.",
+    "category": "bags_luggage"
+  },
+  {
+    "id": "18",
+    "title": "Smart Home Hub",
+    "description": "Centralize control of your smart home devices with this intelligent hub. Compatible with various protocols (Zigbee, Z-Wave, Wi-Fi), allowing seamless automation and voice control. Easy to set up and manage via a mobile app.",
+    "category": "smart_home"
+  },
+  {
+    "id": "19",
+    "title": "Graphic Design Tablet",
+    "description": "Unleash your artistic potential with this professional graphic design tablet. Features a high-resolution display, pressure-sensitive pen, and customizable shortcut keys. Compatible with major design software.",
+    "category": "electronics"
+  },
+  {
+    "id": "20",
+    "title": "Organic Green Tea Blend",
+    "description": "A soothing and refreshing blend of organic green tea leaves, hand-picked from sustainable farms. Rich in antioxidants and offers a delicate, earthy flavor. Perfect for a calming daily ritual.",
+    "category": "groceries"
+  }
+]
