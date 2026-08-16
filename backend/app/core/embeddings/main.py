@@ -4,7 +4,15 @@ from torch import Tensor
 model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 
 
-# The sentences to encode
+class Embedding:
+    def __init__(self, model: SentenceTransformer) -> None:
+        self.model: SentenceTransformer = model
+
+    def embed(self, sentences: list[str] | str) -> Tensor:
+        return self.model.encode(inputs=sentences, show_progress_bar=True)
+
+
+emd = Embedding(model)
 
 
 def main() -> None:
